@@ -6,7 +6,8 @@ Phil Pennock, Apcera Inc.
 
 <https://github.com/syscomet>
 
-I'll get this talk's git repo up on GitHub after the presentation.
+Viewable online at <http://gosftalk.grumpy-troll.org/>
+Source repo available on GitHub as <https://github.com/syscomet/talk-gosf-2013feb/>
 
 Nomenclature:
 
